@@ -1,6 +1,8 @@
 # Identifying Road Objects for Self-Driving Cars Using Convolutional Neural Networks
 
-**Author:** Omkar Sreekanth  
+**Author:** Omkar Sreekanth
+
+Omkar Sreekanth — Harvard project involving deep learning methods.
 
 ## Overview
 This project explores how convolutional neural networks (CNNs) can be used to identify common road objects in images for self-driving cars. The dataset included five classes—**cars, trucks, pedestrians, bicyclists, and lights**—with strong class imbalance (cars heavily overrepresented).
